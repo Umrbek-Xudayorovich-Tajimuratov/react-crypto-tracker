@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-crypto-tracker/static/css/main.85f47097.chunk.css",
+    "main.js": "/react-crypto-tracker/static/js/main.80fd96a6.chunk.js",
+    "main.js.map": "/react-crypto-tracker/static/js/main.80fd96a6.chunk.js.map",
+    "runtime-main.js": "/react-crypto-tracker/static/js/runtime-main.58b71347.js",
+    "runtime-main.js.map": "/react-crypto-tracker/static/js/runtime-main.58b71347.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/react-crypto-tracker/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.e8854973.chunk.js": "/react-crypto-tracker/static/js/2.e8854973.chunk.js",
+    "static/js/2.e8854973.chunk.js.map": "/react-crypto-tracker/static/js/2.e8854973.chunk.js.map",
+    "index.html": "/react-crypto-tracker/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/react-crypto-tracker/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.85f47097.chunk.css.map": "/react-crypto-tracker/static/css/main.85f47097.chunk.css.map",
+    "static/js/2.e8854973.chunk.js.LICENSE.txt": "/react-crypto-tracker/static/js/2.e8854973.chunk.js.LICENSE.txt",
+    "static/media/coingecko-logo.a3b178db.png": "/react-crypto-tracker/static/media/coingecko-logo.a3b178db.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58b71347.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.e8854973.chunk.js",
+    "static/css/main.85f47097.chunk.css",
+    "static/js/main.80fd96a6.chunk.js"
+  ]
+}
